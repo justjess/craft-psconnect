@@ -31,7 +31,8 @@
     }
   },
   "extra": {
-      "name": "Photoshelter Connect",
-      "handle": "psconnect",
+    "name": "Photoshelter Connect",
+		"handle": "psconnect",
+		"hasCpSettings": true
   }
 }
